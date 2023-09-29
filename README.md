@@ -10,7 +10,7 @@ Transalate text extracted from images using Pytesseract and Transalator.
 
 ### Usage
 Replace 'test.png' with file location of image you want to perform OCR on.
-    image = cv2.imread('test.png', 0)
+        image = cv2.imread('test.png', 0)
 
 Being transalated from 'English' to 'French', change accordingly.
-    result = translator.translate(text, 'French', 'English')
+        result = translator.translate(text, 'French', 'English')
