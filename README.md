@@ -15,5 +15,5 @@ Transalate text extracted from images using Pytesseract and Transalator.
 #### Being transalated from 'English' to 'French', change accordingly.
         result = translator.translate(text, 'French', 'English')
 
-### License
+## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
