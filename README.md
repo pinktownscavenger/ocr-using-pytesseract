@@ -14,3 +14,6 @@ Replace 'test.png' with file location of image you want to perform OCR on.
 
 Being transalated from 'English' to 'French', change accordingly.
         result = translator.translate(text, 'French', 'English')
+
+### License
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
